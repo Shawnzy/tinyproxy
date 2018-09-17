@@ -1,5 +1,5 @@
 # tinyproxy
-https://tech.tiq.cc/2012/06/installing-tinyproxy-on-linuxdebian/
+https://tech.tiq.cc/2012/06/installing-tinyproxy-on-linuxdebian/  
 https://gist.github.com/webinista/812c20247a6c21e639ce
 
 ### AWS
