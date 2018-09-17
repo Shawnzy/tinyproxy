@@ -10,3 +10,4 @@ sudo cp ~/tinyproxy/tinyproxy.conf /etc/
 sudo rm /etc/rc.local
 sudo cp ~/tinyproxy/rc.local /etc/
 
+sudo /etc/init.d/tinyproxy restart
