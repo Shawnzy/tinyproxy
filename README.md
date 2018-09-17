@@ -15,3 +15,6 @@ https://gist.github.com/webinista/812c20247a6c21e639ce
 9. Select your key pair >> Launch Instance
 10. git clone https://github.com/Shawnzy/tinyproxy.git
 11. sudo tinyproxy/setup.sh
+12. Change your computer's proxy settings ->
+                                           Proxy IP: IP of AWS machine; 
+                                           Port: 8888
