@@ -29,8 +29,8 @@ https://gist.github.com/webinista/812c20247a6c21e639ce
 
 10. git clone https://github.com/Shawnzy/tinyproxy.git
 
-11. Edit tiny/tinyproxy.conf on line~214 to Allow your IP
-Allow XXX.XX.XXX.XXX/32
+11. Edit tiny/tinyproxy.conf on line~214 to Allow your IP  
+        Allow XXX.XX.XXX.XXX/32
 
 11. sudo ~/tinyproxy/setup.sh
 
